@@ -1,0 +1,10 @@
+.main {
+  width: 330px;
+  background-color: var(--bg-color-main);
+  color: var(--txt-color-primary);
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0 10px 50px;
+  text-align: center;
+  background-image: url("../src/assets/images/background.png");
+  background-size: cover;
+}
