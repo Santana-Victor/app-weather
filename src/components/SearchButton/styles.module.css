@@ -1,0 +1,19 @@
+.button {
+  background-color: var(--btn-search);
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 10px;
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.icon_search {
+  width: 30px;
+  height: auto;
+  object-fit: cover;
+  padding: 6px;
+  opacity: 0.8;
+}
