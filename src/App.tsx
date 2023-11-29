@@ -1,7 +1,16 @@
+import Main from "./components/Main";
+import SearchForm from "./components/SearchForm";
+import InfoPrimary from "./components/InfoPrimary";
+import InfoSecundary from "./components/InfoSecundary";
+
 export default function App() {
   return (
     <>
-      <h1>Olá, mundo!</h1>
+      <Main>
+        <SearchForm />
+        <InfoPrimary />
+        <InfoSecundary />
+      </Main>
     </>
   );
 }
