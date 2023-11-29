@@ -1,0 +1,6 @@
+.info_secundary {
+  background-color: var(--bg-color-info-secundary);
+  color: var(--txt-color-secundary);
+  padding: 20px 30px;
+  border-radius: 0 0 15px 15px;
+}
